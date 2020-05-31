@@ -1,0 +1,13 @@
+.jumbotron {
+    padding:unset;
+    background-color: #e9ecef5c;
+    text-align: left;
+    border:1px solid #d1dae3 ;
+    padding: 2rem 1rem;
+}
+.btn{
+    margin:0px 2px;
+}
+.pull-right{
+    float:right;
+}

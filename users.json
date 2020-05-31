@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "5ecd5421ed684c53d078e72c"
+  },
+  "name": "Ravi",
+  "surname": "Varma",
+  "nick": "Teppala",
+  "email": "ravi.basolutions@gmail.com",
+  "role": "ROLE_USER",
+  "image": null,
+  "password": "$2a$10$z4SH0Ifc.Infij1mdwzCIesGD3k9W5DKYG.wTdZnYhwUYD57azlaG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecd55a8ed684c53d078e72d"
+  },
+  "name": "Amar",
+  "surname": "Akbhar",
+  "nick": "Akbar",
+  "email": "amar@smlogics.com",
+  "role": "ROLE_USER",
+  "image": null,
+  "password": "$2a$10$A0LJGeju7Vhb1Fz.V1lvLedDZ67pHIQaWPjwMgh/b/mAfMO507pti",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfe242ed684c53d078e732"
+  },
+  "name": "Ravi",
+  "surname": "Teppala",
+  "nick": "awd",
+  "email": "sharmistha.basolutions@gmail.com",
+  "role": "ROLE_USER",
+  "image": null,
+  "password": "$2a$10$rfLA0va4WKpp4rhRkM9fmOFZ6S54warT/h8dd9zTLNlrZWZDOaRje",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfe312f97e94452cf68441"
+  },
+  "name": "Ravi",
+  "surname": "Teppala",
+  "nick": "",
+  "email": "ravibtech2015@gmail.com",
+  "role": "ROLE_USER",
+  "image": null,
+  "password": "$2a$10$iq94rEJ49DYsB1o3.aDVxevLuCEcbtDYinnqEPCDAgLVrnrELp1Z.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfe600193f1232bc381620"
+  },
+  "name": "Ravi",
+  "surname": "Teppala",
+  "nick": "",
+  "email": "ravibtech20157@gmail.com",
+  "role": "ROLE_USER",
+  "image": null,
+  "password": "$2a$10$bzhjou5uvs5rSFIYpPkSmOH2AUX9xAf5S7b36bz13hizIlejEyqvS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfed72193f1232bc381621"
+  },
+  "name": "Ravi",
+  "surname": "Teppala",
+  "nick": "",
+  "email": "ravibtech@gmail.com",
+  "role": "ROLE_USER",
+  "image": null,
+  "password": "$2a$10$Q60e1bg0VTBfJxl5kbp80et8UlaRM0U0FaKWi8xlErxGEUpiRRBMa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ecfedac193f1232bc381622"
+  },
+  "name": "Ravi",
+  "surname": "Teppala",
+  "nick": "",
+  "email": "ravibtech2@gmail.com",
+  "role": "ROLE_USER",
+  "image": null,
+  "password": "$2a$10$HDC3xe/sGOUbOYEEN1JshO6s8CrbPSUAbV4bFKq4NRy4ANUIvQMoq",
+  "__v": 0
+}]

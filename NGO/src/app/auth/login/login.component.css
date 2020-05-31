@@ -1,0 +1,13 @@
+.auth-layout-wrap {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    min-height: unset;
+    /* background-size: cover; */
+}
+
+.auth-logo img {
+    width: 100px;
+    height: 100px;
+}
