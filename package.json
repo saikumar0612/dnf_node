@@ -1,4 +1,10 @@
 
+
+
+{
+  "name": "social-back",
+  "version": "1.0.0",
+	
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,10 +15,7 @@
 	"sonar": "sonar-scanner"
 
   },
-
-{
-  "name": "social-back",
-  "version": "1.0.0",
+	
   "description": "Simple social media using MEAN Stack.",
   "engines": {
     "node": "10.x"
