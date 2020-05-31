@@ -1,4 +1,18 @@
 {
+  "name": "angular-registration-login-example",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test --code-coverage",
+    "lint": "ng lint",
+    "e2e": "ng e2e --protractorConfig=e2e/config.js",
+	"sonar": "sonar-scanner"
+
+  },
+
+{
   "name": "social-back",
   "version": "1.0.0",
   "description": "Simple social media using MEAN Stack.",
